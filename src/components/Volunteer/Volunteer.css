@@ -1,0 +1,13 @@
+.vol-top{
+    display: flex;
+}
+
+.vol-img{
+    max-width: 12%;
+    max-height: 10%;
+}
+
+.vol-text{
+    display: flex;
+    flex-direction: column;
+}
