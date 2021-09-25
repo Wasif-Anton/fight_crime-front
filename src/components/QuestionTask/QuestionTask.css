@@ -12,3 +12,8 @@
 .all{
   text-align: left;
 }
+
+.tasks{
+  display: flex;
+  align-items: center;
+}
