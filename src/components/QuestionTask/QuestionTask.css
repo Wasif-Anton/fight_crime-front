@@ -1,0 +1,14 @@
+.all-rate {
+  display: flex;
+  justify-content: center;
+}
+
+.star-rating {
+  display: flex;
+  flex-direction: column;
+  margin: 2%;
+}
+
+.all{
+  text-align: left;
+}
