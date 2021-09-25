@@ -3,17 +3,14 @@ import 'remixicon/fonts/remixicon.css'
 import "./QuestionTask.css"
 
 export default class Question extends Component {
-    constructor(prop) {
-        super(prop);
-        this.state.Question = [
-            { "question 1": "I have many worries, I often feel worry" },
-            { "question 2": "Generally I feel liked by other children" },
-            { "question 3": "I feel nervous or tense on this school ward" },
-            { "question 4": "I am Kind to younger children" }
-        ];
-    }
-    // changeQustion = () => {
-    //     this.setState
+    // constructor(prop) {
+    //     super(prop);
+    //     this.state.Question = [
+    //         { "question 1": "I have many worries, I often feel worry" },
+    //         { "question 2": "Generally I feel liked by other children" },
+    //         { "question 3": "I feel nervous or tense on this school ward" },
+    //         { "question 4": "I am Kind to younger children" }
+    //     ];
     // }
 
     render() {

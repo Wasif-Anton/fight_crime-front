@@ -14,7 +14,8 @@
   background-color: #BF29C2;
   padding: 1%;
   border-radius: 5px;
-  width: 30%;
+  /* width: 30%; */
+  margin-top: 10%;
 }
 
 .tasks{

@@ -7,7 +7,7 @@ export default class Navbar extends Component {
         return (
             <nav>
                 <ul className="nav-bar">
-                <img src={Logo} alt="Logo"/>
+                <img className="logo" src={Logo} alt="Logo"/>
                     <li>About Us</li>
                     <li>Team</li>
                     <li>Project</li>
